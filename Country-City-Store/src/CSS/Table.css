@@ -1,0 +1,24 @@
+.tableContainer{
+    outline: none;
+    width:15%;
+    height: 50vh;
+}
+
+.overflowHandle{
+    overflow-y: auto;
+    overflow-x: hidden;
+    height: 40vh;
+}
+
+.activeRow{
+    background-color: #2E7DFF !important;
+    border-radius: 20px;
+    color: white !important;
+}
+
+.Row{
+    font-size: 25px;
+    padding: 25px;
+    width: 75%;
+    color: #2E7DFF;
+}
